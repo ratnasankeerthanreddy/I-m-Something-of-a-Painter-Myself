@@ -20,5 +20,5 @@ Details on the dataset can be found here and an overview of the evaluation proce
 To learn how to submit and answers to other FAQs, review the Frequently Asked Questions.
 
 Recommended Tutorial
-We highly recommend Amy Jang's notebook[https://www.kaggle.com/amyjang/monet-cyclegan-tutorial] that goes over the basics of loading data from TFRecords, using TPUs, and building a CycleGAN.
+We highly recommend Amy Jang's notebook{https://www.kaggle.com/amyjang/monet-cyclegan-tutorial} that goes over the basics of loading data from TFRecords, using TPUs, and building a CycleGAN.
 Although the competition dataset only includes Monet images, check out this dataset for Cezanne, Ukiyo-e, and Van Gogh paintings to run your GAN on.
